@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shcongmi3.github.io/wangyingshiz/sitemap.xml
